@@ -1,5 +1,7 @@
 {% if site.email %}<a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>{% endif %}
 {% if site.arxiv_id %}<a href="https://arxiv.org/a/{{ site.arxiv_id }}" title="ArXiv"><i class="ai ai-arxiv"></i></a>{% endif %}
+{% if site.mathscinet_id %}<a href="https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid={{ site.mathscinet_id }}" title="MathSciNet"><i class="fas fa-infinity"></i></a>{% endif %}
+{% if site.zb_math_id %}<a href="https://www.zbmath.org/authors/{{ site.zb_math_id }}" title="ZB Math"><i class="fab fa-pied-piper-alt"></i></a> {% endif %}
 {% if site.orcid_id %}<a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a>{% endif %}
 {% if site.scholar_userid %}<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
 {% if site.publons_id %}<a href="https://publons.com/a/{{ site.publons_id }}/" target="_blank" title="Publons"><i class="ai ai-publons"></i></a>{% endif %}
@@ -17,4 +19,5 @@
 {% if site.gitlab_username %}<a href="https://gitlab.com/{{ site.gitlab_username }}" target="_blank" title="GitLab"><i class="fab fa-gitlab"></i></a>{% endif %}
 {% if site.dblp_url %}<a href="{{ site.dblp_url }}" target="_blank" title="DBLP"><i class="ai ai-dblp"></i></a>{% endif %}
 {% if site.stackoverflow_id %}<a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" target="_blank" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a>{% endif %}
+{% if math_genealogy %}<a href="https://www.mathgenealogy.org/id.php?id={{ site.math_genealogy }}" title="Math Genealogy" ><i class="fab fa-sourcetree"></i></a>{% endif %}
 

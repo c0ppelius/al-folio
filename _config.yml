@@ -12,12 +12,11 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://digitalocean.com" target="_blank">Digital Ocean</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-icon: assets/img/beta.png # the emoji used as the favicon
+icon: /assets/img/beta.png # the emoji used as the favicon
 url: https://www.matthewrobertballard.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -31,7 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -43,7 +42,7 @@ max_width: 800px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-og_image: assets/img/beta.png # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/beta.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -66,7 +65,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 arxiv_id: ballard_m_1 # arxiv id
-mathscinet_id: # ams mathscinet id 
+mathscinet_id: 861551 # ams mathscinet id 
 zb_math_id: ballard.matthew-robert # zb math id https://zbmath.org 
 math_genealogy: 132733 # math genealogy id https://www.mathgenealogy.org/
 
@@ -194,7 +193,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
+enable_project_categories:  false   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 

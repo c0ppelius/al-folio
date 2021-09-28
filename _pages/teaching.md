@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Some of teaching philosophy and experience. 
+description: A bit of my teaching philosophy and experience. 
 nav: true
 ---
 
 ### Philosophy
 
-A guiding principle for me, as an educator, is **Education is growth.**. While that may seem trite, 
+A guiding principle for me, as an educator, is _Education is growth_. While that may seem trite, 
 it is essential to remember when teaching mathematics. 
 
 In our culture, mathematics suffers from a genius mentality. Either you are good at mathematics or you are not. 
@@ -26,13 +26,12 @@ Administratively, the structural changes I shepherd must provide resources and m
 Whether contributing to student's learning by standing with them in the classroom or by shaping their experience from outside 
 the classroom, I am never shy about adopting emerging best practices and pedagogical technologies in service of this goal.
 
-
 ### Past courses 
 
 Below you can find some of the courses I led. If you are student and having trouble locating information for the course, please reach out. 
 
-- Fall 2021: [Honors Linear Algebra](544.f21.matthewrobertballard.com). Math 544, UofSC. 
-- Fall 2021: [Derived Categories I](738.f21.matthewrobertballard.com). Math 738, UofSC. 
+- Fall 2021: [Honors Linear Algebra](https://544.f21.matthewrobertballard.com). Math 544, UofSC. 
+- Fall 2021: [Derived Categories I](https://738.f21.matthewrobertballard.com). Math 738, UofSC. 
 - Fall 2020: Honors Transition to Advanced Mathematics. Math 300, UofSC.
 - Fall 2019: Calculus I. Math 141, UofSC.
 - Spring 2019: Calculus I. Math 141, UofSC.
