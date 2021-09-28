@@ -11,12 +11,12 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted by <a href="https://digitalocean.com" target="_blank">Digital Ocean</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 icon: assets/img/beta.png # the emoji used as the favicon
 url: https://www.matthewrobertballard.com # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -71,7 +71,7 @@ zb_math_id: ballard.matthew-robert # zb math id https://zbmath.org
 math_genealogy: 132733 # math genealogy id https://www.mathgenealogy.org/
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-129033666-1  # out your google-analytics code
 # panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
