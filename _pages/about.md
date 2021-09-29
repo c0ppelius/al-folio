@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
       
 I study algebraic geometry and am particularly interested in questions arising from mirror symmetry. Much of my current work focuses on derived categories and their relation to more classical questions. 
 
-For more information about me, see my <a href="{{ '/assets/pdf/ballard_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>. For a list of my papers, please view <a href="./publications/">publications</a> page.
+For more information about me, see my <a href="{{ '/assets/pdf/ballard_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>. For a list of my papers, please view the <a href="./publications/">publications</a> page.
   
 For a little of my pedagogical philosophy and experience, see my <a href="./teaching">teaching</a> page. As an extension of teaching, I take pride in mentoring researchers at all stages and I regularly organize mathematical events, even virtual ones. If you are interested in participating 
 in such an event, please contact me. 
