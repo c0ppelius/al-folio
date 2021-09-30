@@ -6,7 +6,7 @@ description: A bit of my teaching philosophy and experience.
 nav: true
 ---
 
-### Philosophy
+### philosophy
 
 A guiding principle for me, as an educator, is _Education is growth_. While that may seem trite, 
 it is essential to remember when teaching mathematics. 
@@ -26,9 +26,9 @@ Administratively, the structural changes I shepherd must provide resources and m
 Whether contributing to student's learning by standing with them in the classroom or by shaping their experience from outside 
 the classroom, I am never shy about adopting emerging best practices and pedagogical technologies in service of this goal.
 
-### Past courses 
+### courses 
 
-Below you can find some of the courses I led. If you are student and having trouble locating information for the course, please reach out. 
+Below you can find some of the courses I led. 
 
 - Fall 2021: [Honors Linear Algebra](https://544.f21.matthewrobertballard.com). Math 544, UofSC. 
 - Fall 2021: [Derived Categories I](https://738.f21.matthewrobertballard.com). Math 738, UofSC. 
