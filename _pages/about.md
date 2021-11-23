@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Currently faculty in the <a href="http://www.math.sc.edu/">Department of Mathematics</a> at <a href="https://sc.edu">UofSC</a> and a member of the <a href="https://scagnt.org">SC AG NT group</a>. 
+description: Currently Professor in the <a href="http://www.math.sc.edu/">Department of Mathematics</a> at <a href="https://sc.edu">UofSC</a> and a member of the <a href="https://scagnt.org">SC AG NT group</a>. 
 
 profile:
   align: right
