@@ -64,6 +64,16 @@
 
   gtag('config', '{{ site.google_analytics }}');
 </script>
+<!-- Note: plugin scripts must be included after the tracking snippet. -->
+<script src="https://ipmeta.io/plugin.js"></script>
+
+<script>
+   provideGtagPlugin({
+      serviceProvider: 'dimension1',
+      networkDomain: 'dimension2',
+      networkType: 'dimension3',
+   });
+</script>
 {% endif %}
 
 {% if site.enable_panelbear_analytics %}
