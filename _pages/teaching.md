@@ -30,6 +30,7 @@ the classroom, I am never shy about adopting emerging best practices and pedagog
 
 Below you can find some of the courses I led. 
 
+- Spring 2022: [Derived Categories II](https://748.s22.matthewrobertballard.com). Math 748, UofSC. 
 - Fall 2021: [Honors Linear Algebra](https://544.f21.matthewrobertballard.com). Math 544, UofSC. 
 - Fall 2021: [Derived Categories I](https://738.f21.matthewrobertballard.com). Math 738, UofSC. 
 - Fall 2020: Honors Transition to Advanced Mathematics. Math 300, UofSC.
