@@ -6,9 +6,9 @@ title: Matthew R. Ballard # the website title (if blank, full name will be used 
 first_name: Matthew
 middle_name: Robert
 last_name: Ballard
-email: mrballard@sc.edu
+email: mrb@mattrobball.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Researching mathematics with occasional excursions into physics and CS. 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://digitalocean.com" target="_blank">DigitalOcean</a>.
@@ -48,7 +48,7 @@ og_image: /assets/img/beta.png # The site-wide (default for all links) Open Grap
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: c0ppelius # your GitHub user name
+github_username: mattrobball # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -72,7 +72,7 @@ math_genealogy: 132733 # math genealogy id https://www.mathgenealogy.org/
 contact_note: >
 #  You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-129033666-1  # out your google-analytics code
+google_analytics: UA-129033666-1 # out your google-analytics code
 # panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
