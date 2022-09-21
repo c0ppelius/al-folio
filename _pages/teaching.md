@@ -8,31 +8,47 @@ nav: true
 
 ### philosophy
 
-A guiding principle for me, as an educator, is _Education is growth_. While that may seem trite, 
-it is essential to remember when teaching mathematics. 
+A guiding principle for me, as an educator, is _Education is growth_. While
+that may seem trite, it is essential to remember when teaching mathematics. 
 
-In our culture, mathematics suffers from a genius mentality. Either you are good at mathematics or you are not. 
-It is a self-reinforcing declaration. It breeds depression from resignation. It favors those with many resources over those with few. 
-It binds itself to our existing prejudices and represents a significant reason for the lack of diversity in math and beyond.
+In our culture, mathematics suffers from a genius mentality. Either you are
+good at mathematics or you are not. It is a self-reinforcing declaration. It
+breeds depression from resignation. It favors those with many resources over
+those with few. It binds itself to our existing prejudices and represents a
+significant reason for the lack of diversity in math and beyond.
 
-Those of us that fight each day for insight into mathematical problems find this mentality absurd. While there are certainly Eureka 
-moments, they are always prefaced by long stretches of accretive growth in our understanding. We grow in ways visible and 
-invisible to create the capacity for each breakthrough. 
+Those of us that fight each day for insight into mathematical problems find
+this mentality absurd. While there are certainly Eureka moments, they are
+always prefaced by long stretches of accretive growth in our understanding. We
+grow in ways visible and invisible to create the capacity for each
+breakthrough. 
 
-As the instructor, my priority in fostering a supportive and nurturing classroom environment is to impart a growth mentality from the beginning. 
+As the instructor, my priority in fostering a supportive and nurturing
+classroom environment is to impart a growth mentality from the beginning. 
 
-Administratively, the structural changes I shepherd must provide resources and motivation for personal growth. 
+Administratively, the structural changes I shepherd must provide resources and
+motivation for personal growth. 
 
-Whether contributing to student's learning by standing with them in the classroom or by shaping their experience from outside 
-the classroom, I am never shy about adopting emerging best practices and pedagogical technologies in service of this goal.
+Whether contributing to student's learning by standing with them in the
+classroom or by shaping their experience from outside the classroom, I am never
+shy about adopting emerging best practices and pedagogical technologies in
+service of this goal.
 
 ### courses 
 
 Below you can find some of the courses I led. 
 
-- Spring 2022: [Derived Categories II](https://748.s22.matthewrobertballard.com). Math 748, UofSC. 
-- Fall 2021: [Honors Linear Algebra](https://544.f21.matthewrobertballard.com). Math 544, UofSC. 
-- Fall 2021: [Derived Categories I](https://738.f21.matthewrobertballard.com). Math 738, UofSC. 
+- Fall 2022: [Introduction to
+  Cryptography](https://587.f22.matthewrobertballard.com). CSCE 557/ Math 587,
+  UofSC.
+- Fall 2022: [Honors Transition to Advanced
+  Mathematics](https://300.f22.matthewrobertballard.com). Math 300, UofSC. 
+- Spring 2022: [Derived Categories
+  II](https://748.s22.matthewrobertballard.com). Math 748, UofSC. 
+- Fall 2021: [Honors Linear Algebra](https://544.f21.matthewrobertballard.com).
+  Math 544, UofSC. 
+- Fall 2021: [Derived Categories I](https://738.f21.matthewrobertballard.com).
+  Math 738, UofSC. 
 - Fall 2020: Honors Transition to Advanced Mathematics. Math 300, UofSC.
 - Fall 2019: Calculus I. Math 141, UofSC.
 - Spring 2019: Calculus I. Math 141, UofSC.
