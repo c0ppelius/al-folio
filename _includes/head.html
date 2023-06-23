@@ -64,16 +64,54 @@
 
   gtag('config', '{{ site.google_analytics }}');
 </script>
-<!-- Note: plugin scripts must be included after the tracking snippet. -->
-<script src="https://ipmeta.io/plugin.js"></script>
 
 <script>
-   provideGtagPlugin({
-      serviceProvider: 'dimension1',
-      networkDomain: 'dimension2',
-      networkType: 'dimension3',
-   });
+ function GA4getIP2(json) {
+   if (json) {
+   	EIPL=json;
+   }
+   	if (typeof gaGlobal  === 'object' && gaGlobal.vid) {
+		var org=''+EIPL.org;
+                if (EIPL.businessName) {
+                	org=''+EIPL.businessName;
+			if (EIPL.businessWebsite) {
+				org+=' - '+EIPL.businessWebsite;
+			}
+		}
+		org=encodeURIComponent(org);
+		var ipType='b'; // sends as Business type of visitor, this is reflected in the Event name: eiplb_*
+		if (EIPL.ipType === 'Education') {
+			ipType='e'; // sends as Education type of visitor, this is reflected in the Event name: eiple_*
+		}
+		else if (EIPL.ipType === 'Residential') {
+			ipType='r'; // sends as Residential type of visitor, this is reflected in the Event name: eiplr_*
+		}
+		var blob = new Blob([], {type: 'text/plain;charset=UTF-8'});
+		var regex = /_ga_([^=]+)/gi, result = [];
+		while ( (result = regex.exec(document.cookie)) ) {
+			var sid = document.cookie.match(new RegExp("(^| )_ga_"+result[1]+"=GS[0-9].[0-9].([^.]+)"));
+			var url = 'https://www.google-analytics.com/g/collect?v=2&tid=G-'+result[1]+'&cid='+gaGlobal.vid+'&sid='+sid[2]+'&';
+			var ups = 'up.eipl_org_type='+EIPL.ipType+'&up.eipl_org='+org+'';
+			navigator.sendBeacon(url+''+ups+'', blob);
+		}
+	}
+	else {
+		setTimeout(function() {GA4getIP2();}, 200);
+	}
+ }
 </script>
+<script src="//extreme-ip-lookup.com/json/?callback=GA4getIP2&key=M2LYbUf4L7RQOQEVDise" async defer></script>
+
+<!-- <!-- Note: plugin scripts must be included after the tracking snippet. --> -->
+<!-- <script src="https://ipmeta.io/plugin.js"></script> -->
+<!---->
+<!-- <script> -->
+<!--    provideGtagPlugin({ -->
+<!--       serviceProvider: 'dimension1', -->
+<!--       networkDomain: 'dimension2', -->
+<!--       networkType: 'dimension3', -->
+<!--    }); -->
+<!-- </script> -->
 {% endif %}
 
 {% if site.enable_panelbear_analytics %}
