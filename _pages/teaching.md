@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: A bit of my teaching philosophy and experience. 
+description: A bit of my teaching philosophy and experience.
 nav: true
 ---
 
 ### philosophy
 
 A guiding principle for me, as an educator, is _Education is growth_. While
-that may seem trite, it is essential to remember when teaching mathematics. 
+that may seem trite, it is essential to remember when teaching mathematics.
 
 In our culture, mathematics suffers from a genius mentality. Either you are
 good at mathematics or you are not. It is a self-reinforcing declaration. It
@@ -21,49 +21,51 @@ Those of us that fight each day for insight into mathematical problems find
 this mentality absurd. While there are certainly Eureka moments, they are
 always prefaced by long stretches of accretive growth in our understanding. We
 grow in ways visible and invisible to create the capacity for each
-breakthrough. 
+breakthrough.
 
 As the instructor, my priority in fostering a supportive and nurturing
-classroom environment is to impart a growth mentality from the beginning. 
+classroom environment is to impart a growth mentality from the beginning.
 
 Administratively, the structural changes I shepherd must provide resources and
-motivation for personal growth. 
+motivation for personal growth.
 
 Whether contributing to student's learning by standing with them in the
 classroom or by shaping their experience from outside the classroom, I am never
 shy about adopting emerging best practices and pedagogical technologies in
 service of this goal.
 
-### courses 
+### courses
 
-Below you can find some of the courses I led. 
+Below you can find some of the courses I led.
 
+- Spring 2023: [Formalization and Mathematics][https://411.s23.matthewrobertballard.com]
+    SCHC 411, USC.
 - Fall 2022: [Introduction to
   Cryptography](https://587.f22.matthewrobertballard.com). CSCE 557/ Math 587,
-  UofSC.
+  USC.
 - Fall 2022: [Honors Transition to Advanced
-  Mathematics](https://300.f22.matthewrobertballard.com). Math 300, UofSC. 
+  Mathematics](https://300.f22.matthewrobertballard.com). Math 300, USC.
 - Spring 2022: [Derived Categories
-  II](https://748.s22.matthewrobertballard.com). Math 748, UofSC. 
+  II](https://748.s22.matthewrobertballard.com). Math 748, USC.
 - Fall 2021: [Honors Linear Algebra](https://544.f21.matthewrobertballard.com).
-  Math 544, UofSC. 
+  Math 544, USC.
 - Fall 2021: [Derived Categories I](https://738.f21.matthewrobertballard.com).
-  Math 738, UofSC. 
-- Fall 2020: Honors Transition to Advanced Mathematics. Math 300, UofSC.
-- Fall 2019: Calculus I. Math 141, UofSC.
-- Spring 2019: Calculus I. Math 141, UofSC.
-- Fall 2018: Calculus I. Math 141, UofSC.
-- Fall 2017: Honors Calculus III. Math 241, UofSC.
-- Fall 2017: Complex Geometry I. Math 737, UofSC.
-- Spring 2016: Algebra II. Math 702, UofSC.
-- Fall 2015: Honors Calculus I. Math 141, UofSC.
-- Fall 2015: Algebra I. Math 701, UofSC.
-- Spring 2015: Algebraic Topology II. Math 733, UofSC.
-- Fall 2014: Calculus I. Math 141, UofSC.
-- Fall 2014: Algebraic Topology I. Math 732, UofSC.
-- Spring 2014: Algebraic Structure I. Math 536, UofSC.
-- Fall 2013: Calculus II. Math 142, UofSC.
-- Fall 2013: Linear Algebra. Math 544, UofSC.
+  Math 738, USC.
+- Fall 2020: Honors Transition to Advanced Mathematics. Math 300, USC.
+- Fall 2019: Calculus I. Math 141, USC.
+- Spring 2019: Calculus I. Math 141, USC.
+- Fall 2018: Calculus I. Math 141, USC.
+- Fall 2017: Honors Calculus III. Math 241, USC.
+- Fall 2017: Complex Geometry I. Math 737, USC.
+- Spring 2016: Algebra II. Math 702, USC.
+- Fall 2015: Honors Calculus I. Math 141, USC.
+- Fall 2015: Algebra I. Math 701, USC.
+- Spring 2015: Algebraic Topology II. Math 733, USC.
+- Fall 2014: Calculus I. Math 141, USC.
+- Fall 2014: Algebraic Topology I. Math 732, USC.
+- Spring 2014: Algebraic Structure I. Math 536, USC.
+- Fall 2013: Calculus II. Math 142, USC.
+- Fall 2013: Linear Algebra. Math 544, USC.
 - Spring 2012: Modern Algebra. Math 541, Wisconsin.
 - Fall 2011: Introduction to Combinatorics. Math 475, Wisconsin.
 - Spring 2011: Graduate Proseminar in Mathematics. Math 505, Penn.
