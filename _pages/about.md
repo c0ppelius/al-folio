@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 I study algebraic geometry and am particularly interested in questions arising
 from mirror symmetry. Much of my current work focuses on derived categories and
 their relation to more classical questions. I am also interested in formal
-verification, particular of modern mathematics.
+verification, particularly of modern mathematics.
 
 For more information about me, see my <a href="{{ '/assets/pdf/ballard_cv.pdf'
 | prepend: site.baseurl | prepend: site.url }}">CV</a>. For a list of my

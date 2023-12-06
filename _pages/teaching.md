@@ -38,6 +38,7 @@ service of this goal.
 
 Below you can find some of the courses I led.
 
+- Fall 2023: Calculus III. Math 241. USC.
 - Spring 2023: [Formalization and Mathematics](https://411.s23.matthewrobertballard.com)
     SCHC 411, USC.
 - Fall 2022: [Introduction to
