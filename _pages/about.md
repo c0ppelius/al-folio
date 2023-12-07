@@ -27,6 +27,12 @@ For more information about me, see my <a href="{{ '/assets/pdf/ballard_cv.pdf'
 | prepend: site.baseurl | prepend: site.url }}">CV</a>. For a list of my
 papers, please view the <a href="./publications/">publications</a> page.
 
+I recently joined the maintainer group for [Mathlib](https://leanprover-community.
+github.io), the expansive library of mathematics formalized in the
+the [Lean](https://lean-lang.org) programming language. I always welcome a
+chat about how formalization, particularly Lean, can make your life better
+in the age of AI.
+
 For a little of my pedagogical philosophy and experience, see my <a
 href="./teaching">teaching</a> page. As an extension of teaching, I take pride
 in mentoring researchers at all stages and I regularly organize mathematical

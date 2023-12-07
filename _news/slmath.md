@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Ballard at SLMath
-date: 2024-01-15 00:00:00-0400
+title: Ballard at SLMath (formerly MSRI)
+date: 2023-12-01 00:00:00-0400
 inline: false
 ---
 
-Dr. Ballard was awarded the position of Research Professor at the
-Simons-Laufer Mathematical Sciences Institute (formerly the
-Mathematical Sciences Research Institute) in Berkeley, CA for
+Dr. Ballard was selected for the position of Research Professor at the
+[Simons-Laufer Mathematical Sciences Institute](https://slmath.org)
+(formerly the Mathematical Sciences Research Institute) in Berkeley, CA for
 the Spring 2024 semester.
 
-He joins the program on Noncommutative Algebraic Geometry and
-will be in residence.
+He joins the [program](https://www.slmath.org/programs/356)
+on Noncommutative Algebraic Geometry and will be in residence.
