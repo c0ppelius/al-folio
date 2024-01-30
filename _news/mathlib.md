@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ballard joins Mathlib maintainers
+title: Mathlib maintainer
 date: 2023-09-24 00:00:00-0400
 inline: false
 ---
