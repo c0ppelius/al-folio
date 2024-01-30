@@ -5,7 +5,10 @@ permalink: /
 description: 'Professor in the <a
 href="http://www.math.sc.edu/">Department of Mathematics</a> at <a
 href="https://sc.edu">USC</a> and a member of the <a
-href="https://scagnt.org">SC AG NT group</a>.'
+href="https://scagnt.org">SC AG NT group</a>. <br> <br>
+For the Spring 2024 semester, I am a Research Professor in the
+<a href="https://www.slmath.org/programs/356">Noncommutative
+Algebraic Geometry</a> program at <a href="https://slmath.org">SLMath</a>.'
 
 profile:
   align: right
