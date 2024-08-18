@@ -38,9 +38,13 @@ service of this goal.
 
 Below you can find some of the courses I led.
 
+- Fall 2024: [Introduction to
+  Cryptography](https://587.f24.matthewrobertballard.com). CSCE 557/ Math 587,
+  USC.
 - Fall 2023: Calculus III. Math 241. USC.
 - Spring 2023: [Formalization and Mathematics](https://411.s23.matthewrobertballard.com)
     SCHC 411, USC.
+- Spring 2023: Formalization of Mathematics. Math 768. USC.
 - Fall 2022: [Introduction to
   Cryptography](https://587.f22.matthewrobertballard.com). CSCE 557/ Math 587,
   USC.
