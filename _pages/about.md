@@ -4,8 +4,9 @@ title: about
 permalink: /
 description: 'Professor in the <a
 href="http://www.math.sc.edu/">Department of Mathematics</a> at <a
-href="https://sc.edu">USC</a> and a member of the <a
-href="https://scagnt.org">SC AG NT group</a>. <br> <br>'
+href="https://sc.edu">USC</a>. <br>
+Member of the <a href="https://scagnt.org">SC AG NT group</a>. <br>
+Fellow of the <a href="https://www.ams.org">American Mathematical Society</a>.<br><br>'
 
 profile:
   align: right
@@ -27,7 +28,7 @@ For more information about me, see my <a href="{{ '/assets/pdf/ballard_cv.pdf'
 | prepend: site.baseurl | prepend: site.url }}">CV</a>. For a list of my
 papers, please view the <a href="./publications/">publications</a> page.
 
-I recently joined the maintainer group for [Mathlib](https://leanprover-community.
+I am a member of the maintainer group for [Mathlib](https://leanprover-community.
 github.io), the expansive library of mathematics formalized in the
 [Lean](https://lean-lang.org) programming language. I always welcome a
 chat about how formalization, particularly Lean, can make your life better
