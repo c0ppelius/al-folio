@@ -5,7 +5,7 @@ permalink: /
 description: 'Professor in the
 <a href="http://www.math.sc.edu/">Department of Mathematics</a> at <a
 href="https://sc.edu">USC</a>. <br>
-Member of the <a href="https://scagnt.org">SC AG NT group</a>.
+Member of the <a href="https://scagnt.org">SC AG NT group</a>. <br>
 Maintainer of <a href="https://github.com/leanprover-community/mathlib4">Mathlib</a>. <br>
 Fellow of the <a href="https://www.ams.org">American Mathematical Society</a>.<br><br>'
 

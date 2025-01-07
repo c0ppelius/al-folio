@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Professor at SLMath (formerly MSRI)
-date: 2023-12-01 00:00:00-0400
+date: 2024-01-24 00:00:00-0400
 inline: false
 ---
 
